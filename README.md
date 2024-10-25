@@ -1,1 +1,3 @@
 # Artesano-Market
+
+metodologia scrum 
